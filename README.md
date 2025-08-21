@@ -1,32 +1,28 @@
-# 👋 Hi, I'm Josué David Gutierrez
+👋 Hola, soy **Josué David Gutierrez**  
 
-🎨 **Frontend Developer in progress** | 🌎 Freelancer | 💻 Tech Enthusiast  
+🎨 **Desarrollador Frontend** | 💻 **Freelancer** | 🚀 **Apasionado por la tecnología**  
 
-I'm currently learning **Responsive Web Design at freeCodeCamp** while building real-world projects.  
-I use **AI tools** to improve my productivity and accelerate my learning journey.  
+Desarrollo proyectos frontend con enfoque en **Responsive Web Design** y las mejores prácticas modernas.  
+Utilizo **herramientas modernas (incluyendo IA)** para optimizar procesos, aumentar la productividad y mantenerme actualizado en el mundo del desarrollo web.  
 
-📌 Skills in progress:  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Responsive Web Design  
-- Frontend projects with modern practices  
-
-🚀 Goal: Become a **Frontend Developer Freelancer** while growing my portfolio.  
-
----
-
-# 👋 Hola, soy Josué David Gutierrez  
-
-🎨 **Desarrollador Frontend en formación** | 🌎 Freelancer | 💻 Apasionado por la tecnología  
-
-Actualmente estoy aprendiendo **Responsive Web Design en freeCodeCamp** mientras construyo proyectos reales.  
-Uso **herramientas de IA** para mejorar mi productividad y acelerar mi aprendizaje.  
-
-📌 Habilidades en progreso:  
+📌 **Habilidades**  
 - HTML, CSS, JavaScript  
 - Git & GitHub  
 - Responsive Web Design  
 - Proyectos frontend con prácticas modernas  
 
-🚀 Meta: Convertirme en **Frontend Developer Freelancer** mientras desarrollo mi portafolio.  
+🎯 **Meta**: Consolidarme como **Frontend Developer Freelancer**, creando soluciones web efectivas y escalables.  
+👋 Hi, I’m **Josué David Gutierrez**  
 
+🎨 **Frontend Developer** | 💻 **Freelancer** | 🚀 **Passionate about technology**  
+
+I build frontend projects focused on **Responsive Web Design** and modern best practices.  
+I leverage **modern tools (including AI)** to optimize workflows, boost productivity, and stay updated in the web development field.  
+
+📌 **Skills**  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Responsive Web Design  
+- Frontend projects with modern practices  
+
+🎯 **Goal**: Establish myself as a **Frontend Developer Freelancer**, delivering effective and scalable web solutions.  
