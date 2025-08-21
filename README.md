@@ -1,24 +1,32 @@
-# josue-frontend-portfolio
-# 🌐 Josué Frontend Portfolio
+# 👋 Hi, I'm Josué David Gutierrez
 
-Este repositorio contiene mi portafolio como **Frontend Developer Jr**, donde muestro proyectos y prácticas de desarrollo web.
+🎨 **Frontend Developer in progress** | 🌎 Freelancer | 💻 Tech Enthusiast  
 
-## 🚀 Tecnologías
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Git & GitHub
+I'm currently learning **Responsive Web Design at freeCodeCamp** while building real-world projects.  
+I use **AI tools** to improve my productivity and accelerate my learning journey.  
 
-## 📂 Contenido
-- Landing pages
-- Proyectos de FreeCodeCamp
-- Ejercicios y prácticas personales
+📌 Skills in progress:  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Responsive Web Design  
+- Frontend projects with modern practices  
 
-## 👨‍💻 Sobre mí
-Soy **Técnico en Programación de Computadores** con interés en el **desarrollo web frontend**.  
-Actualmente aprendiendo y aplicando conceptos de **Responsive Web Design** (FreeCodeCamp) y mejorando con proyectos prácticos.  
+🚀 Goal: Become a **Frontend Developer Freelancer** while growing my portfolio.  
 
-## 📫 Contacto
-- GitHub: [josuedgjimenez-beep](https://github.com/josuedgjimenez-beep)
-- Email: *(puedes ponerlo si quieres)*
+---
+
+# 👋 Hola, soy Josué David Gutierrez  
+
+🎨 **Desarrollador Frontend en formación** | 🌎 Freelancer | 💻 Apasionado por la tecnología  
+
+Actualmente estoy aprendiendo **Responsive Web Design en freeCodeCamp** mientras construyo proyectos reales.  
+Uso **herramientas de IA** para mejorar mi productividad y acelerar mi aprendizaje.  
+
+📌 Habilidades en progreso:  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Responsive Web Design  
+- Proyectos frontend con prácticas modernas  
+
+🚀 Meta: Convertirme en **Frontend Developer Freelancer** mientras desarrollo mi portafolio.  
+
